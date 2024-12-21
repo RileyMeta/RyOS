@@ -1,2 +1,2 @@
 # RyOS
-A simple x86 Operating System writte in Assembly and C
+A simple x86 Operating System written in Assembly and C
